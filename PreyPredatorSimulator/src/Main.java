@@ -12,18 +12,7 @@ import java.util.Scanner;
  *	
  *	Name: Mesut GOLCUK
  *	
- *	Student no: 13011050
- *	
- *	E-Mail: mesutgolcuk@gmail.com / l1113050@std.yildiz.edu.tr
- *	
- *	
  *	IDE: Eclipse Luna
- *	
- *	Operating System : 64 bit Ubuntu 14.04
- *	
- *	Cpu : Intel(R) Core(TM) i7-3630QM 2.40 GHz
- *	
- *	RAM : 16 GB
  * 
  */
 public class Main {
